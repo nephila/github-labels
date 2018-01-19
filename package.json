@@ -1,0 +1,11 @@
+{
+  "name": "github-labels",
+  "repository": "git@gitix.iast.it:AlienTT/WfP.git",
+  "version": "0.0.1",
+  "description": "github labels for nephila repositories",
+  "author": "Nephila",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "github-label-sync": "^1.3.0"
+  }
+}

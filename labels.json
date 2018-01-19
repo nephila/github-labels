@@ -1,0 +1,95 @@
+[
+    {
+        "name": "type: bug",
+        "color": "b60205",
+        "aliases": [
+            "bug"
+        ]
+    },
+    {
+        "name": "type: feature",
+        "color": "84b6eb",
+        "aliases": [
+            "enhancement"
+        ]
+    },
+    {
+        "name": "type: question",
+        "color": "cc317c",
+        "aliases": [
+            "question"
+        ]
+    },
+    {
+        "name": "type: documentation",
+        "color": "1d76db",
+        "aliases": [
+            "documentation"
+        ]
+    },
+    {
+        "name": "status: approved",
+        "color": "04753e",
+        "aliases": [
+        ]
+    },
+    {
+        "name": "status: analysis",
+        "color": "fef2c0",
+        "aliases": [
+        ]
+    },
+    {
+        "name": "status: changes requested",
+        "color": "f9d0c4",
+        "aliases": [
+        ]
+    },
+    {
+        "name": "status: duplicate",
+        "color": "cccccc",
+        "aliases": [
+            "duplicate"
+        ]
+    },
+    {
+        "name": "status: review",
+        "color": "c5def5",
+        "aliases": [
+        ]
+    },
+    {
+        "name": "status: help needed",
+        "color": "5319e7",
+        "aliases": [
+            "help needed"
+        ]
+    },
+    {
+        "name": "status: need UI",
+        "color": "f9d0c4",
+        "aliases": [
+        ]
+    },
+    {
+        "name": "status: feedback needed",
+        "color": "f9d0c4",
+        "aliases": [
+            "feedback needed"
+        ]
+    },
+    {
+        "name": "status: invalid",
+        "color": "e6e6e6",
+        "aliases": [
+            "invalid",
+            "wontfix"
+        ]
+    },
+    {
+        "name": "first time",
+        "color": "c2e0c6",
+        "aliases": [
+        ]
+    }
+]
