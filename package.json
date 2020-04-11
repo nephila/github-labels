@@ -6,6 +6,6 @@
   "author": "Nephila",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "github-label-sync": "^1.4.2"
+    "github-label-sync": "^1.4.6"
   }
 }
