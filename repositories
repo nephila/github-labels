@@ -1,14 +1,14 @@
 nephila/djangocms-blog
 nephila/djangocms-page-sitemap
+nephila/djangocms-page-tags
 nephila/djangocms-page-meta
 nephila/djangocms-installer
 nephila/djangocms-apphook-setup
 nephila/python-taiga
-nephila/djangocms-helper
+nephila/django-app-helper
 nephila/django-ckeditor-filebrowser-filer
 nephila/django-meta
 nephila/django-knocker
-nephila/djangocms-page-tags
 nephila/djangocms-redirect
 nephila/djangocms-rest-view
 nephila/djangocms-multisite
@@ -16,4 +16,5 @@ nephila/djangocms-revealjs
 nephila/django-maja-newsletter
 nephila/django-filer-celery
 nephila/djangocms-highlightjs
+nephila/django-app-enabler
 nephila/giturlparse
